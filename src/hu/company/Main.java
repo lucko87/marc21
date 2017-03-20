@@ -24,6 +24,6 @@ public class Main {
         System.out.println(deciliter + " dl = " + (deciliter * 100) + " ml");
         System.out.println(deciliter + " dl = " + (deciliter * 10) + " cl");
         System.out.println(deciliter + " dl = " + (deciliter / 10) + " l");
-        System.out.println(deciliter + " dl = " + (deciliter / 1000) + " hl"); 
+        System.out.println(deciliter + " dl = " + (deciliter / 1000) + " hl");
     }
 }
